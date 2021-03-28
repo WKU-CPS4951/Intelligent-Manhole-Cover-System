@@ -1,4 +1,4 @@
-/* code source: https://blog.csdn.net/qq_42289906/article/details/80707060*/
+/*source code: https://blog.csdn.net/qq_42289906/article/details/80707060*/
 import java.sql.Connection;
 import java.sql.Driver;
 import java.sql.DriverManager;
