@@ -15,16 +15,13 @@ import android.os.Handler;
 
 /**
  * @Description UDP
- * none
+ * UDP
+ * to use:
+ * send(str): call send
+ * receive: udp.new ReceiveThread(Handler handler)
+ * @issue only send(str), could be overloaded
  * @version 1.0
  * @time 3/28
- *
- * @issue not designed package
- * @issue untested (except send)
- * @issue uncompleted try catch
- * @issue unencapsulated by Thread
- * @permission <uses-permission android:name="android.permission.INTERNET"/>
- * @reference https://blog.csdn.net/weixin_34072637/article/details/89201724
  */
 
 public class UDP {
