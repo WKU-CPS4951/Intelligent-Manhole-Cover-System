@@ -1,4 +1,4 @@
-/*The code is from https://blog.csdn.net/qq_42289906/article/details/80707060*/
+/*source code: https://blog.csdn.net/qq_42289906/article/details/80707060*/
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.HashMap;
