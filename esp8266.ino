@@ -15,7 +15,7 @@ static WiFiClient espClient;
 
 //高德地图api：https://restapi.amap.com/v3/ip?parameters
 const char* Host = "www.restapi.amap.com";
-String thisPage = "restapi.amap.com/v3/ip?key=255c63fdc7ca3fada7143f5eb3497d29&output=xml&ip=110.247.34.4";//+ip address
+String thisPage = "restapi.amap.com/v3/ip?key=255c63fdc7ca3fada7143f5eb3497d29&output=xml&ip=112.14.72.235";//+ip address
 String key = "255c63fdc7ca3fada7143f5eb3497d29";
 String ip = "";
 
